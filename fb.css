@@ -1,0 +1,181 @@
+.header {
+    background: #3b5998;
+    width:100%;
+    height:116px
+}
+.body{
+    margin:0;
+}
+.logo{
+    width: 40%;
+    padding: 70px;
+    float : left;
+}
+.logo-text{
+    color: white;
+    font-size: 33px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 150px;
+    margin-top: 160px;
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+   
+
+}
+.login-controls{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 40px;
+    float:left;
+
+}
+.forgotten{
+    color:#fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+
+}
+.sub-btn:hover{
+    background: rgba(31, 31, 239, 0.893);
+}
+.left-section{
+   width:51%;
+   height: 600px;
+float:left;
+  background-color: #fcfafa;
+   
+}
+.right-section{
+   width:49%;
+   height: 600px;
+  float:left;
+  background-color: rgb(251, 252, 252);
+    
+}
+.main-body{
+    background: linear-gradient(rgb(151, 68, 68),#999fb5);
+    width: 100%;
+    height: 100%;
+    
+}
+.img{
+    width: 351px;
+    margin-left: 161px;
+}
+
+.para{
+    font-family: 'Open Sans',sans-serif;
+  text-rendering:optimizelegibility;
+  color:#333;
+  margin-left: 161px;
+}
+#fname{
+   height: 24px;
+   border-radius: 6px;
+   border-color: #999fb5;
+}
+
+#sname{
+    height: 24px; 
+    border-radius: 6px;
+    margin-left: 3px; 
+    border-color: #999fb5;
+}
+
+#mail{
+    height: 24px;
+    margin-top: 10px;
+    width: 344px;
+    border-radius: 1px;
+    border-radius: 6px;
+    border-color: #999fb5;
+
+}
+
+#password{
+    height: 24px;
+    margin-top: 10px;
+    width: 168px;
+    border-radius: 6px;
+    border-color: #999fb5;
+
+}
+#re-password{
+    height: 24px;
+   border-radius: 6px;
+   border-color: #999fb5;
+}
+
+#namebox{
+    margin-top: 100px;
+    width: 111px;
+    height: 23px;
+    margin-left: 1px
+px
+;
+}
+
+.head1{
+    color: rgb(49, 46, 46);
+    font-size: 33px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 10px;
+    margin-left: -4px;
+}
+
+.para1{
+    margin-top: 1px;
+}
+.birthday{
+    padding-top: 33px;
+
+}
+.gender{
+    margin-top: 18px;
+}
+.sub{
+    background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    height: 33px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+}
+.signupform{
+    border: 2px solid rgb(60, 58, 58);
+    border-radius: 4px;
+    height: 26px;
+    width: 165px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
